@@ -1,0 +1,176 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Rubik+Doodle+Shadow&display=swap');
+
+.imgg img{
+    width: 100%;
+    height: 600px;
+
+}
+.slider-text-inner{
+    padding-bottom: 50px;
+    font-family: "Rokkitt", Georgia, serif;
+    text-transform: uppercase;
+    color: #ffffff;
+    
+}
+.slider-text-inner p{
+    text-transform: capitalize;
+}
+.slider-text-inner h1{
+    font-weight: 800;
+    font-size: 55px;
+}
+.slider-text-inner h4{
+    font-weight: 100;
+    font-size: 55px;
+}
+.slider-text-inner p{
+    font-size: 20px;
+}
+.slider-text-inner p button:hover{
+    color:  #ffffff;
+    background-color: #010101; 
+    border: 1px solid  #010101 ;
+}
+.slider-text-inner p button{
+    color: #ffffff;
+    background-color: #616161;;
+    border: 1px solid #616161;;
+    border-radius: 30px;
+    padding: 10px 20px;
+    font-size: 16px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+.lib-intro{
+    padding: 80px 0;
+}
+.intro h2{
+    font-family: "Montserrat", Arial, sans-serif;
+    text-transform: capitalize;
+    font-weight: 700;
+    font-size: 40px;
+}
+.featured img{
+    height: 500px;
+    width: 100%;
+    margin-bottom: 15px;
+}
+
+.featured p a{
+    text-decoration: none;
+    font-family: "Rokkitt", Georgia, serif;
+    text-transform: capitalize;
+    font-size: 35px;
+    color: #010101;
+    font-weight: 500;
+}
+.product-Seller h1{
+    font-family: "Rokkitt", Georgia, serif;
+    text-transform: capitalize;
+    font-size: 35px;
+    text-align: center;
+    font-weight: 800;
+    padding: 80px 0;
+    color: #010101;
+    letter-spacing: 3px;    
+}
+.border {
+    border: 1px solid #dee2e6;
+}
+
+.product-enter{
+   min-height: 360px;
+   margin-bottom: 20px;
+}
+.product-enter img{
+    width: 100%;
+}
+.product-enter h2{
+    text-transform: uppercase;
+    font-size: 16px;
+    padding: 15px;
+}
+.product-enter span{
+    font-size: 16px;
+    font-weight: 500;
+   
+
+}
+.slider-text-inner2{
+    padding: 80px;
+    color: #ffffff;
+    
+}
+
+.slider-text-inner2 p .btn2:hover{
+    color:  #ffffff;
+    background-color: #010101; 
+    border: 1px solid  #010101 ;
+}
+.slider-text-inner2 p .btn2{
+    color: #ffffff;
+    background-color: #616161;
+    border: 1px solid #616161;
+    border-radius: 30px;
+    padding: 16px 25px;
+    font-size: 15px;
+    letter-spacing: 2px;
+}
+
+.colorlib-partner h2{
+    text-transform: uppercase;
+    font-size: 20px;
+    padding: 80px;
+    color: rgba(0, 0, 0, 0.3);
+    letter-spacing: 1px;
+    font-weight: 700;
+    font-family: "Rokkitt", Georgia, serif;
+}
+.partner-logo img{
+    width: 100%;
+}
+.footer-area{
+    padding-top: 150px;
+}
+
+.footer-col h4{ 
+    padding-bottom: 40px;
+    text-transform: uppercase;
+    font-size: 20px;
+    font-family: "Rokkitt", Georgia, serif;
+}
+.footer-col p{
+    color: #595959;
+}
+.footer-icon {
+   display: flex;
+   padding: 0px;  
+}
+.footer-icon li{
+    list-style: none;
+    padding-right:15px;
+    font-size: 25px; 
+}
+.footer-icon li i{
+    color: #595959;
+}
+.footer-col ul{
+    padding: 0;
+}
+
+.footer-col ul li{
+  list-style: none;
+  line-height: 2;
+}
+.footer-col ul li a{
+    text-decoration: none;
+    color: #595959;
+    text-transform: uppercase;
+}
+.copy{
+    padding-top: 80px;
+    color: #595959;
+}
+
+
